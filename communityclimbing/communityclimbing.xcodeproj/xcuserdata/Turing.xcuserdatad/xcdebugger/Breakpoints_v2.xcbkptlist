@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE756560-578F-43B3-9A52-0C47C7A09BD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8216E870-6691-4566-BE86-FE452C22B8D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "communityclimbing/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "637"
+            endingLineNumber = "637"
+            landmarkName = "convertStringToCGPointArray(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8216E870-6691-4566-BE86-FE452C22B8D8 - 5c1648914f72dafb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.ViewController.convertStringToCGPointArray(Swift.String) -&gt; Swift.Array&lt;__C.CGPoint&gt;"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "523"
+                  endingLineNumber = "523"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "8216E870-6691-4566-BE86-FE452C22B8D8 - 5c1648914f72da18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.ViewController.convertStringToCGPointArray(Swift.String) -&gt; Swift.Array&lt;__C.CGPoint&gt;"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "524"
+                  endingLineNumber = "524"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F645E106-8FCF-4636-9645-03A5E08F5E56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "communityclimbing/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "638"
+            endingLineNumber = "638"
+            landmarkName = "convertOccupiedSnapPointsStringToDictionary(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "communityclimbing/MapGymSelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MapGymSelectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789 - d01faeea2a285901"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.MapGymSelectionViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; communityclimbing.MapGymSelectionViewController"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/MapGymSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789 - ab22457ff84e9968"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.MapGymSelectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; communityclimbing.MapGymSelectionViewController"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/MapGymSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789 - 717e473ba4f4c890"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.MapGymSelectionViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;communityclimbing.MapGymSelectionViewController&gt;"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/MapGymSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789 - bd73ba76490ed9b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.MapGymSelectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;communityclimbing.MapGymSelectionViewController&gt;"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/MapGymSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "80BF5B06-F6B7-454B-B2E7-70B5FB50F789 - 8b2c81a4ea6bc3b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "communityclimbing.MapGymSelectionViewController.__deallocating_deinit"
+                  moduleName = "communityclimbing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/communityclimbing/communityclimbing/MapGymSelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
